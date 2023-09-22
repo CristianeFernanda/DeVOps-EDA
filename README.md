@@ -1,2 +1,2 @@
-# DeVOps-EDA
+# DEVOPS-EAD
 Aula de devops
